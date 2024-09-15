@@ -1,8 +1,12 @@
 # Noteify <img src="screenshots/app icon.jpeg" width="60px" height="60px">
 
-## Noteify is a currency detection app made for the visually impaired to check whether they have been handed the right amount of money and thereby, ensuring that they have not been cheated upon, giving the output as a computer-generated audio, having basic UI for better User-Experience. 
+## Noteify is an artificially intelligent currency detection app made for the visually impaired to check whether they have been handed the right amount of money and thereby, ensuring that they have not been cheated upon, giving the output as a computer-generated audio, having basic UI for better User-Experience. 
 
-This is a project done by me and my partners <a href= "https://github.com/Ashniz24"> Ashna Nizam </a>, <a href= "https://github.com/bensam"> Ben Sam </a>, <a href= "https://github.com/mannu"> Mannu Thomas </a> and <a href= "https://github.com/cjpeter"> CJ Peter </a> and the app was developed using Flutter.
+## Check out the demo below!
+# SORRY, THIS DOES NOT WORK ANYMORE, THE PACKAGES HAVE DEPRECIATED :(
+<a href="https://youtu.be/P4t4FfayMzE"> Youtube Video (DEMO) </a>
+
+This is a project done by me and my partners <a href= "https://github.com/Ashniz24"> Ashna Nizam </a>, <a href= "https://github.com/bensam02"> Ben Sam </a>, <a href= "https://github.com/Mannu7789"> Mannu Thomas </a> and <a href= "https://github.com/PeterChageth"> CJ Peter </a> and the app was developed using the Flutter framework.
 
 The main modules used are:
 
@@ -19,11 +23,12 @@ The backend comprises of the tflite package using a tflite model along with the 
 **Advantages**
 1. No authentication/login required.<br>
 2. No internet connection required.<br>
-3. Highly User-friendly <br>
+3. Highly User-friendly.<br>
 4. Local storage will not be further consumed after installation.<br>
 5. Good-high accuracy in predicting.<br>
 6. A total calculating feature.<br>
 7. Computer-generated audio output.<br>
+8. Automatic initialization of app when it is closed. <br>
 
 
 ## How to clone
@@ -37,4 +42,10 @@ The backend comprises of the tflite package using a tflite model along with the 
 8. Optional(To change your app icon to ours, you have to change the minmap folders in your *android/app/src/main/res/* to the ones in the repo).
 9. Run the *main.dart* after connecting to your mobile.
 
+
+<a href="https://youtu.be/Zv6dlV7W8cw"> How to clone tutorial </a>
+
+
 ## Check out CONTRIBUTING.MD to learn how to contribute.
+
+### Note: This project is time being not updated upto the present versions of the packages used, so cloning might not work unless you update the code correspondingly, sorry😅
